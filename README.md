@@ -1,4 +1,4 @@
-# GSAP Vertical List Image Stepper
+# GSAP Vertical List Image Stepper (Desktop ONLY)
 
 A high-performance, scroll-driven interactive component featuring a synchronized text list, animated progress bar track indicator, and cross-fading image switcher built with **GSAP (GreenSock)** and **ScrollTrigger**.
 
